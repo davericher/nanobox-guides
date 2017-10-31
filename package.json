@@ -41,7 +41,13 @@
     "node-horseman": "^3.2.0",
     "node-sass": "^3.11.2",
     "phantomjs-prebuilt": "^2.1.13",
-    "rimraf": "~2.2.8"
+    "rimraf": "~2.2.8",
+    "snyk": "^1.47.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
