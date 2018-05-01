@@ -11,7 +11,7 @@
     "gulp-bower": "0.0.10",
     "gulp-bump": "~0.1.11",
     "gulp-coffee": "~2.0.1",
-    "gulp-concat": "~2.3.3",
+    "gulp-concat": "~2.4.3",
     "gulp-declare": "~0.2.0",
     "gulp-foreach": "^0.1.0",
     "gulp-git": "^1.2.1",
