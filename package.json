@@ -40,7 +40,7 @@
     "marked": "^0.3.6",
     "node-horseman": "^3.2.0",
     "node-sass": "^3.11.2",
-    "phantomjs-prebuilt": "^2.1.13",
+    "phantomjs-prebuilt": "^2.1.15",
     "rimraf": "~2.2.8"
   },
   "devDependencies": {}
