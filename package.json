@@ -27,7 +27,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-rev": "^7.1.2",
     "gulp-rimraf": "^0.1.1",
-    "gulp-sass": "^2.3.2",
+    "gulp-sass": "^5.0.0",
     "gulp-shadow-icons": "tolmark12/gulp-shadow-icons",
     "gulp-uglify": "~0.3.1",
     "gulp-usemin": "^0.3.14",
